@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Application.deps.json
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\ref\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Application.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Domain.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\net5.0\PageViewsProject.Infraestructure.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.csproj.CopyComplete
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\ref\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\net5.0\PageViewsProject.Application.pdb

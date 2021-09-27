@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\bin\Debug\net5.0\PageViewsProject.Infraestructure.deps.json
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\bin\Debug\net5.0\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\bin\Debug\net5.0\ref\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\bin\Debug\net5.0\PageViewsProject.Infraestructure.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.AssemblyInfo.cs
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\ref\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Infraestructure\obj\Debug\net5.0\PageViewsProject.Infraestructure.pdb

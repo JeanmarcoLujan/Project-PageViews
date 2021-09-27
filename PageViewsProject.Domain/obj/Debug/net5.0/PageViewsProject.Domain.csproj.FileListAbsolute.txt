@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\bin\Debug\net5.0\PageViewsProject.Domain.deps.json
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\bin\Debug\net5.0\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\bin\Debug\net5.0\ref\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\bin\Debug\net5.0\PageViewsProject.Domain.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\ref\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Domain\obj\Debug\net5.0\PageViewsProject.Domain.pdb

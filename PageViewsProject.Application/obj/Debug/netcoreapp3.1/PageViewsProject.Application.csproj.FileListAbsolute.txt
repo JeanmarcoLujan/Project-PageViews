@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Application.deps.json
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Application.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Domain.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Domain.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.csproj.CopyComplete
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\obj\Debug\netcoreapp3.1\PageViewsProject.Application.pdb
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Infraestructure.dll
+C:\Users\User\source\repos\PageViewsProject\PageViewsProject.Application\bin\Debug\netcoreapp3.1\PageViewsProject.Infraestructure.pdb
