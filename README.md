@@ -46,5 +46,5 @@ Top 100
 |   3   | es          | tupac Amaru | 157374           | 
 |   4   | it.m        | bongur_     | 8545             |
 
-## Deleveloper
+## Developer
 Alberto Luján
