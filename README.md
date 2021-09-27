@@ -36,7 +36,7 @@ Find the app keys url, hour and replace the existing value with the correspondin
 ### Step 3: Run the sample
 Clean the solution, rebuild the solution, and start it in the debugger.
 
-### Result
+### Step 4: Result
 
 Top 100
 |   #   | domain_code | page_title  | max_ count_views | 
