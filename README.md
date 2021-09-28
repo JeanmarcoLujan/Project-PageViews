@@ -35,6 +35,14 @@ Find the app keys url, hour and replace the existing value with the correspondin
 
 ### Step 3: Run the sample
 Clean the solution, rebuild the solution, and start it in the debugger.
+0 - Determinate url, for the last hours configured, based on the current date and time.
+1 - Download the information (files) in memory stream.
+2 - Descompression the stream in memory.
+3 - Read the stream and generate a list of string
+4 - Instance objets of the class 'Pages' and generate a list of 'Pages'.
+5 - Join the diferents results.
+6 - Calculate result following  SQL Statement of coding assignment.
+7 - Show o print the result.
 
 ### Step 4: Result
 
